@@ -1,9 +1,9 @@
 class author
 
-attr_accessor :name
+  attr_accessor :name
 
-def initialize
+  def initialize
 
-end
+  end
 
 end
